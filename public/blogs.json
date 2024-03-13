@@ -1,48 +1,52 @@
 [
-    {
-      "id": 1,
-      "cover": "https://picsum.photos/id/1/400/300",
-      "author": "John Doe",
-      "author_image": "https://picsum.photos/200",
-      "posted_date": "2024-03-12",
-      "reading_time": 10,
-      "hashtags": ["technology", "coding", "webdev"]
-    },
-    {
-      "id": 2,
-      "cover": "https://picsum.photos/id/2/400/300",
-      "author": "Jane Smith",
-      "author_image": "https://picsum.photos/200",
-      "posted_date": "2024-03-11",
-      "reading_time": 8,
-      "hashtags": ["health", "fitness", "nutrition"]
-    },
-    {
-      "id": 3,
-      "cover": "https://picsum.photos/id/3/400/300",
-      "author": "Alex Johnson",
-      "author_image": "https://picsum.photos/200",
-      "posted_date": "2024-03-10",
-      "reading_time": 12,
-      "hashtags": ["travel", "adventure", "explore"]
-    },
-    {
-      "id": 4,
-      "cover": "https://picsum.photos/id/4/400/300",
-      "author": "Emily Brown",
-      "author_image": "https://picsum.photos/200",
-      "posted_date": "2024-03-09",
-      "reading_time": 15,
-      "hashtags": ["food", "recipes", "cooking"]
-    },
-    {
-      "id": 5,
-      "cover": "https://picsum.photos/id/5/400/300",
-      "author": "Michael Wilson",
-      "author_image": "https://picsum.photos/200",
-      "posted_date": "2024-03-08",
-      "reading_time": 7,
-      "hashtags": ["books", "reading", "literature"]
-    }
-  ]
-  
+  {
+    "id": 1,
+    "title": "10 Tips for Improving Your Coding Skills",
+    "cover": "https://picsum.photos/id/1/400/300",
+    "author": "John Doe",
+    "author_image": "https://picsum.photos/200",
+    "posted_date": "2024-03-12",
+    "reading_time": 10,
+    "hashtags": ["technology", "coding", "webdev"]
+  },
+  {
+    "id": 2,
+    "title": "Healthy Habits for a Fit Lifestyle",
+    "cover": "https://picsum.photos/id/2/400/300",
+    "author": "Jane Smith",
+    "author_image": "https://picsum.photos/200",
+    "posted_date": "2024-03-11",
+    "reading_time": 8,
+    "hashtags": ["health", "fitness", "nutrition"]
+  },
+  {
+    "id": 3,
+    "title": "Exploring the World: Must-Visit Destinations",
+    "cover": "https://picsum.photos/id/3/400/300",
+    "author": "Alex Johnson",
+    "author_image": "https://picsum.photos/200",
+    "posted_date": "2024-03-10",
+    "reading_time": 12,
+    "hashtags": ["travel", "adventure", "explore"]
+  },
+  {
+    "id": 4,
+    "title": "Delicious and Nutritious Recipes to Try",
+    "cover": "https://picsum.photos/id/4/400/300",
+    "author": "Emily Brown",
+    "author_image": "https://picsum.photos/200",
+    "posted_date": "2024-03-09",
+    "reading_time": 15,
+    "hashtags": ["food", "recipes", "cooking"]
+  },
+  {
+    "id": 5,
+    "title": "The Power of Reading: Books That Inspire",
+    "cover": "https://picsum.photos/id/5/400/300",
+    "author": "Michael Wilson",
+    "author_image": "https://picsum.photos/200",
+    "posted_date": "2024-03-08",
+    "reading_time": 7,
+    "hashtags": ["books", "reading", "literature"]
+  }
+]
